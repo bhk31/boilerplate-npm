@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Bhavesh Khandelwal",
 	"description":"This is practice project for node",
+	"Keywords":["practice","freecodecamp","node"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
