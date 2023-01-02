@@ -3,6 +3,7 @@
 	"author": "Bhavesh Khandelwal",
 	"description":"This is practice project for node",
 	"keywords":["practice","freecodecamp","node"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
