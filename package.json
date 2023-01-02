@@ -1,6 +1,6 @@
 {
-	"author": "Bhavesh Khandelwal",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Bhavesh Khandelwal",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
